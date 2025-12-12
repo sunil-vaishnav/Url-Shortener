@@ -8,7 +8,7 @@ A Laravel-based URL Shortener service supporting multiple companies, user roles 
 
 ### **Authentication & Roles**
 - User roles: **SuperAdmin, Admin, Member**
-- Login / Logout / Registration (Laravel Breeze or Jetstream)
+- Login / Logout (Laravel Breeze or Jetstream)
 - Authorization using custom `role:` middleware
 
 ### **Company Management**
@@ -36,7 +36,6 @@ Covers:
 - SuperAdmin restriction
 - URL listing rules
 - Invitation workflow
-- Public redirect
 
 ---
 
